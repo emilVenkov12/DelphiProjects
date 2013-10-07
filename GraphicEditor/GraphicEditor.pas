@@ -29,7 +29,7 @@ type
     mouseDownBtnPosX, mouseDownBtnPosY : Integer;
     currentShape : String;
   public
-    { Public declarations }
+    { Public declarations  }
   end;
 
 var
